@@ -1,1 +1,3 @@
-Đồ án xây dựng hệ thống khuyến nghị sản phẩm dựa trên hình ảnh sử dụng CNN 
+# Image-based product search system
+Xây dựng hệ thống tìm kiếm sản phẩm dựa trên hình ảnh
+Thường kì môn 'Thị giác máy tính"
